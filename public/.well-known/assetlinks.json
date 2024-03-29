@@ -1,0 +1,16 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.as828.hio",
+            "sha256_cert_fingerprints": [
+                "0B:B2:90:96:D0:31:4C:4B:2B:9F:69:19:D6:AD:A3:0A:20:22:49:4A:2B:F6:C7:F1:40:93:1E:62:87:76:B7:52",
+                "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+                "E9:58:5F:F4:12:40:3D:85:49:CA:23:4F:2A:1A:DD:94:4E:E0:3D:D7:88:4D:BE:AF:89:55:3F:F6:9E:50:26:03"
+            ]
+        }
+    }
+]
